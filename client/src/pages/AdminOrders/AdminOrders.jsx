@@ -49,7 +49,7 @@ const AdminOrders = () => {
   };
 
   return (
-    <Layout title={"All Orders Data - Alpha97 ECommerce"}>
+    <Layout title={"All Orders Data - Love ECommerce"}>
       <div className="admin-orders">
         <div className="left">
           <AdminMenu />

@@ -119,10 +119,10 @@ const Home = () => {
     }
   };
   return (
-    <Layout title={"All Products - Best Offers - Alpha97 E-Commerce"}>
+    <Layout title={"All Products - Best Offers - Love E-Commerce"}>
       <div className="hero">
         <div className="hero-left">
-          <h1>Alpha97 E-Commerce</h1>
+          <h1>Love E-Commerce</h1>
           <p>
             Crafted on the MERN Stack, our E-Commerce store embodies simplicity
             and sophistication. Merging MongoDB, Express.js, React, and Node.js,

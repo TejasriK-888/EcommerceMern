@@ -70,7 +70,7 @@ const CreateProduct = () => {
   }, []);
 
   return (
-    <Layout title={"Dashboard - Create Product - Alpha97 ECommerce"}>
+    <Layout title={"Dashboard - Create Product - Love ECommerce"}>
       <div className="container">
         <div className="row">
           <div className="row-left">

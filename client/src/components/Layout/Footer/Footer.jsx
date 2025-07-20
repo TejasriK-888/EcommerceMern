@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="copyright">
-        <p> &copy; Copyright Protected 2023, Made With ❤️ By Muhammad Usama </p>
+        <p> Made With Passion For Shopping❤️ </p>
       </div>
     </div>
   );

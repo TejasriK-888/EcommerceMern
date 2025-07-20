@@ -24,7 +24,7 @@ const Orders = () => {
   }, [auth?.token]);
 
   return (
-    <Layout title={"Your Orders - Alpha97 Ecommerce"}>
+    <Layout title={"Your Orders -Love Ecommerce"}>
       <div className="order-container">
         <div className="row">
           <div className="row-left">

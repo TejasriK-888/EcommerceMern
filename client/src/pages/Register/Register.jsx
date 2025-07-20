@@ -44,7 +44,7 @@ const Register = () => {
   };
 
   return (
-    <Layout title={"Register - Alpha97 Ecommerce"}>
+    <Layout title={"Register - Love Ecommerce"}>
       <div className="register-container">
         <form onSubmit={handleSubmit}>
           <h1>Register Page</h1>

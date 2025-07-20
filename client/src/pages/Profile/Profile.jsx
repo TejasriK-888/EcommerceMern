@@ -57,7 +57,7 @@ const Profile = () => {
   };
 
   return (
-    <Layout title={"Profile - Alpha97 Ecommerce"}>
+    <Layout title={"Profile - Love Ecommerce"}>
       <div className="profile-container">
         <div className="row">
           <div className="row-left">

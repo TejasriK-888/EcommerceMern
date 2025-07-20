@@ -5,7 +5,7 @@ import "./About.scss";
 
 const About = () => {
   return (
-    <Layout title={"About Us - Alpha97 | E-Commerce"}>
+    <Layout title={"About Us - Love E-Commerce"}>
       <h1 className="ah1">About Us</h1>
       <div className="about">
         <div className="about-left">
@@ -13,21 +13,17 @@ const About = () => {
         </div>
 
         <div className="about-right">
-          <h2>About Alpha97 | E-Commerce</h2>
+          <h2>About Love E-Commerce</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipiscing, elit sed <br />
-            venenatis varius sapien quam dignissim, leo tempus nostra velit{" "}
-            <br />
-            facilisis. Ad mi eros dapibus eget sagittis per enim bibendum <br />
-            rhoncus vehicula, mus fringilla cras gravida sollicitudin lectus{" "}
-            <br />
-            morbi convallis. Vivamus id nec tristique faucibus lacinia egestas{" "}
-            <br />
-            curabitur class aliquet convallis, varius arcu semper aenean dis non{" "}
-            <br />
-            nulla ultricies nullam, a sagittis sapien diam taciti nisl fringilla{" "}
-            <br />
-            massa sodales.
+            Life is beautiful when lived with kindness and purpose, <br />
+embracing challenges with courage and grace, <br />
+finding joy in small moments and gratitude in all things. <br />
+With every step we take, we grow wiser and stronger, <br />
+building connections and cherishing memories <br />
+that shape who we are and who we become. <br />
+Let us walk this journey with open hearts and hopeful minds, <br />
+spreading light, love, and understanding wherever we go. <br />
+Together we create a better tomorrow
           </p>
         </div>
       </div>

@@ -8,7 +8,7 @@ const Dashboard = () => {
   const [auth] = useAuth();
 
   return (
-    <Layout title={"Dashboard - Alpha97 Ecommerce "}>
+    <Layout title={"Dashboard -Love Ecommerce "}>
       <div className="dash-container">
         <div className="row">
           <div className="row-left">
