@@ -1,6 +1,5 @@
 # Minimal E-Commerce Store (MERN Stack)
 
-![Project Preview](./client/src/assets/preview.png)
 
 Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, React, Node.js) stack. This application provides a user-friendly and efficient platform for browsing, searching, and purchasing products. It includes features such as user authentication, product categorization, shopping cart management, secure payment processing, and more.
 
